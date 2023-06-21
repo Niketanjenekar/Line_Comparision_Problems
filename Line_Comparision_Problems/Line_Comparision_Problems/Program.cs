@@ -11,7 +11,13 @@ namespace Line_Comparision_Problems
         public static void Main(string[] args)
         {
             Console.WriteLine("***************Welcome to Line Comparision Problems*****************");
-            
+
+            //******************************************Day-3 Assignment***********************************************
+
+            Console.WriteLine("First Use Case for Calculating Length of Line");
+
+            Line_Comparision_UseCases.Lines();
+
             Console.ReadLine();
         }
     }
