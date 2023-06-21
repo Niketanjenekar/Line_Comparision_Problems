@@ -14,7 +14,7 @@ namespace Line_Comparision_Problems
 
             //******************************************Day-3 Assignment***********************************************
 
-            Console.WriteLine("First Use Case for Calculating Length of Line");
+            Console.WriteLine("Second Use Case for Calculating Equality of Two Lines");
 
             Line_Comparision_UseCases.Lines();
 
