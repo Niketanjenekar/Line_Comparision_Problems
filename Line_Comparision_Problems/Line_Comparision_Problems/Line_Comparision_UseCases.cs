@@ -59,8 +59,18 @@ namespace Line_Comparision_Problems
             }
             else
             {
-                Console.WriteLine(" The Lines are not of Equal Length");
+                Console.WriteLine("Both The Lines are not of Equal Length");
+
+                if (Length_One > Length_Two)
+                {
+                    Console.WriteLine("The Length of Line 1 is greater than Line 2");
+                }
+                else
+                {
+                    Console.WriteLine("The Length of Line 2 is greater than Line 1");
+                }
             }
+
         }
     }
 }

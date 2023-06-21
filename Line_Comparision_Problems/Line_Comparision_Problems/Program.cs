@@ -14,7 +14,7 @@ namespace Line_Comparision_Problems
 
             //******************************************Day-3 Assignment***********************************************
 
-            Console.WriteLine("Second Use Case for Calculating Equality of Two Lines");
+            Console.WriteLine("Third Use Case for Comparision of Two Lines");
 
             Line_Comparision_UseCases.Lines();
 
